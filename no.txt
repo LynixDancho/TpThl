@@ -1,0 +1,14 @@
+Nombre de symboles: 2
+Nombre d'etats: 3
+Nombre d'etats initial: 1
+Nombre d'etats finaux: 1
+Symboles: a b
+Etats initial: q0
+Etats: q0 q1 q2
+Etats Finaux: q2
+delta (q0 ,a) q1
+delta (q0 ,b) q0
+delta (q1 ,a) q1
+delta (q1 ,b) q2
+delta (q2 ,a) q2
+delta (q2 ,b) q2
